@@ -1,8 +1,9 @@
 # Spotify-Analysis-Dashboard
 Power BI
 
-
-<img src="https://github.com/hemkumar19/Adidas_" width="600" />
+<img src="" width="600" />
+<img src="https://github.com/hemkumar19/Spotify-Analysis-Dashboard/blob/main/Spotify%20Listening%20.png" width="600" />
+<img src="https://github.com/hemkumar19/Spotify-Analysis-Dashboard/blob/main/Spotify%20Details.png" width="600" />
 
 <h1>BUSINESS REQUIREMENT</h1>
 <p>In today’s digital music era, understanding listening patterns is crucial for both users and streaming platforms. This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.</p>
