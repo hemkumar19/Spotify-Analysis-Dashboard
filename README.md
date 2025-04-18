@@ -4,40 +4,43 @@ Power BI
 
 <img src="https://github.com/hemkumar19/Adidas_" width="600" />
 
-<h1>spotify_track_uri</h1>
+<h1>BUSINESS REQUIREMENT</h1>
+<p>In today’s digital music era, understanding listening patterns is crucial for both users and streaming platforms. This analysis focuses on Spotify Albums Data, providing insights into user engagement with albums over time.</p>
+<h3>Albums</h3>
 <ul>
-    <li><b>Description:</b> A unique identifier assigned to each track in Spotify’s database.</li>
-    <li><b>Format:</b> "spotify:track"</li>
-    <li><b>Purpose:</b> Helps link tracks to their metadata and allows for cross-referencing with Spotify’s catalog.</li>
+    <li>🎵 <b>Total Albums Played Over Time – </b>Track how album listening trends change over months and years.</li>
+    <li>📅<b> Number of Albums Listened by Year – </b>Identify annual listening habits and volume (Find the Min and Max Albums in the view).</li>
+    <li>💥<b>Albums Played on Weekday & Weekend –</b> Identify the Pattern of music listening on weekdays and weekends.
+    <li>🏆 <b>Top 5 Albums – Identify the most played albums based on listening frequency.</li>
+    <li>📊 <b>Latest Year vs Previous Year Analysis –</b>Compare album consumption between the latest and previous years, including:</li>
+    <ul>
+        <li>LY (Latest Year) vs PY (Previous Year) Trends</li>
+        <li>YoY (Year-over-Year) Growth Analysis</li>
+    </ul>
 </ul>
 
-<h1>Platform</h1>
+<h3>Artists</h3>
 <ul>
-    <li><b>Description:</b>The device or platform used to stream the track.</li>
-    <li><b>Possible Value :</b> Desktop (Windows/Mac app)<br>
-                                Mobile (iOS/Android app)<br>
-                                Web (Spotify Web Player)<br>
-                                Smart_speaker (Amazon Echo, Google Home, etc.)</li>
-    <li><b>Purpose:</b> Helps understand where users are consuming music.</li>
+    <li>🎵 <b>Total Albums Played Over Time – </b>Track how album listening trends change over months and years.</li>
+    <li>📅<b> Number of Albums Listened by Year – </b>Identify annual listening habits and volume (Find the Min and Max Albums in the view).</li>
+    <li>💥<b>Albums Played on Weekday & Weekend –</b> Identify the Pattern of music listening on weekdays and weekends.
+    <li>🏆 <b>Top 5 Albums – Identify the most played albums based on listening frequency.</li>
+    <li>📊 <b>Latest Year vs Previous Year Analysis –</b>Compare album consumption between the latest and previous years, including:</li>
+    <ul>
+        <li>LY (Latest Year) vs PY (Previous Year) Trends</li>
+        <li>YoY (Year-over-Year) Growth Analysis</li>
+    </ul>
 </ul>
 
-<h1>ms played</h1>
+<h3>Tracks</h3>
 <ul>
-    <li><b>Description:</b> The total number of milliseconds the track was played before stopping or skipping.</li>
-    <li><b>Format:</b>Integer value (e.g., 215000 for 3 minutes 35 seconds).</li>
-    <li><b>Purpose:</b> Useful for engagement analysis, identifying completed plays, and calculating revenue (as Spotify pays artists based on streaming duration).</li>
-</ul>
-
-<h1>track name</h1>
-<ul>
-    <li><b>Description:</b> The title of the song being played.</li>
-    <li><b>Format:</b>"Shape of You".</li>
-    <li><b>Purpose:</b>Helps in analyzing the most played tracks.</li>
-</ul>
-
-<h1artist name</h1>
-<ul>
-    <li><b>Description:</b> The name of the artist performing the song.</li>
-    <li><b>Format:</b>"Ed Sheeran"</li>
-    <li><b>Purpose:</bUseful for ranking popular artists and identifying user preferences.</li>
+    <li>🎵 <b>Total Albums Played Over Time – </b>Track how album listening trends change over months and years.</li>
+    <li>📅<b> Number of Albums Listened by Year – </b>Identify annual listening habits and volume (Find the Min and Max Albums in the view).</li>
+    <li>💥<b>Albums Played on Weekday & Weekend –</b> Identify the Pattern of music listening on weekdays and weekends.
+    <li>🏆 <b>Top 5 Albums – Identify the most played albums based on listening frequency.</li>
+    <li>📊 <b>Latest Year vs Previous Year Analysis –</b>Compare album consumption between the latest and previous years, including:</li>
+    <ul>
+        <li>LY (Latest Year) vs PY (Previous Year) Trends</li>
+        <li>YoY (Year-over-Year) Growth Analysis</li>
+    </ul>
 </ul>
