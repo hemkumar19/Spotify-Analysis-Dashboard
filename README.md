@@ -1,7 +1,7 @@
 # Spotify-Analysis-Dashboard
 Power BI
 
-<img src="" width="600" />
+<img src="https://github.com/hemkumar19/Spotify-Analysis-Dashboard/blob/main/Spotify%20OverView.png" width="600" />
 <img src="https://github.com/hemkumar19/Spotify-Analysis-Dashboard/blob/main/Spotify%20Listening%20.png" width="600" />
 <img src="https://github.com/hemkumar19/Spotify-Analysis-Dashboard/blob/main/Spotify%20Details.png" width="600" />
 
